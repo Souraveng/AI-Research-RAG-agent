@@ -14,7 +14,7 @@ class ResearchAnswer(BaseModel):
 
 class LangChainGenerator:
     def __init__(self, model_name="gemini-2.5-pro"): 
-        api_key = os.getenv("GEMINI_API_KEY")
+        api_key = os.getenv("GEMINIAPIKEY")
     
         # Initialize Gemini via LangChain
         self.llm = ChatGoogleGenerativeAI(

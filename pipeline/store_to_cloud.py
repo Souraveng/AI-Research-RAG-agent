@@ -18,8 +18,8 @@ COLLECTION_NAME = "research_papers"
 MODEL_NAME = "BAAI/bge-small-en-v1.5"
 BATCH_SIZE = 32
 
-QDRANT_URL = os.getenv("QDRANT_URL")
-QDRANT_API_KEY = os.getenv("QDRANT_API_KEY")
+QDRANTURL = os.getenv("QDRANT_URL")
+QDRANTAPIKEY = os.getenv("QDRANT_API_KEY")
 
 def get_deterministic_id(chunk_id_str):
     """
@@ -56,11 +56,11 @@ def initialize_collection(client):
     )
 
 def main():
-    if not QDRANT_URL or not QDRANT_API_KEY:
+    if not QDRANTURL or not QDRANTAPIKEY:
         print("Error: Missing QDRANT_URL or QDRANT_API_KEY in .env file.")
         return
 
-    client = QdrantClient(url=QDRANT_URL, api_key=QDRANT_API_KEY)
+    client = QdrantClient(url=QDRANTURL, api_key=QDRANTAPIKEY)
 
     device = "cuda" if torch.cuda.is_available() else "cpu"
     print(f"Loading embedding model on {device}...")

@@ -17,8 +17,8 @@ COLLECTION_NAME = "research_papers"
 EMBED_MODEL_NAME = "BAAI/bge-small-en-v1.5"
 RERANK_MODEL_NAME = "BAAI/bge-reranker-base"
 
-QDRANT_URL = os.getenv("QDRANT_URL")
-QDRANT_API_KEY = os.getenv("QDRANT_API_KEY")
+QDRANTURL = os.getenv("QDRANT_URL")
+QDRANTAPIKEY = os.getenv("QDRANT_API_KEY")
 
 class ResearchRetriever(BaseRetriever):
     client: Any = None
@@ -29,7 +29,7 @@ class ResearchRetriever(BaseRetriever):
 
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
-        self.client = AsyncQdrantClient(url=QDRANT_URL, api_key=QDRANT_API_KEY)
+        self.client = AsyncQdrantClient(url=QDRANTURL, api_key=QDRANTAPIKEY)
         
         device = "cuda" if torch.cuda.is_available() else "cpu"
         print(f"   - Loading Retrieval Models on {device}...")
