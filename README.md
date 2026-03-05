@@ -18,7 +18,7 @@ Unlike standard RAG systems, this project processes and retrieves **both text an
 ## 🛠️ Technology Stack
 - **Frontend:** Streamlit
 - **Backend API:** FastAPI & Uvicorn
-- **LLM Engine:** Google Gemini 1.5 Flash (via LangChain)
+- **LLM Engine:** Google Gemini 2.5 pro (via LangChain)
 - **Vector Database:** Qdrant Cloud
 - **Embeddings:** `BAAI/bge-small-en-v1.5`
 - **Reranker:** `BAAI/bge-reranker-base`
