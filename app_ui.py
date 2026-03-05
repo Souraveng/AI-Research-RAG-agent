@@ -7,7 +7,7 @@ st.set_page_config(page_title="Research Navigator", layout="wide")
 st.title("Research Paper Navigator (Gemini Multimodal)")
 st.markdown("Query your papers. Ask directly for diagrams and explanations!")
 
-API_URL = "http://localhost:8000/ask"
+API_URL = "http://127.0.0.1:8000/ask"
 
 if "messages" not in st.session_state:
     st.session_state.messages =[]
