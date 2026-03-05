@@ -10,7 +10,7 @@ Unlike standard RAG systems, this project processes and retrieves **both text an
 - **🖼️ Multimodal Retrieval:** Extracts and indexes text chunks, images, and image captions separately.
 - **🎯 Smart Metadata Filtering:** Automatically detects page number requests (e.g., "page 3") using regex and filters the Vector DB to guarantee precise results.
 - **🧠 Advanced Reranking:** Uses Cross-Encoder models (`BAAI/bge-reranker-base`) to score and prioritize the most relevant retrieved text and images.
-- **⚡ Fast & Structured LLM:** Powered by **Google Gemini 1.5 Flash** via LangChain, enforcing strict JSON outputs for perfectly formatted citations and reasoning steps.
+- **⚡ Fast & Structured LLM:** Powered by **Google Gemini 2.5 pro** via LangChain, enforcing strict JSON outputs for perfectly formatted citations and reasoning steps.
 - **💬 Interactive Chat UI:** A sleek, conversational interface built with Streamlit that renders text, markdown, expandable "AI Thoughts", and retrieved images.
 
 ---
