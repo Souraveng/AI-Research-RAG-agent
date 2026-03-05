@@ -1,0 +1,3400 @@
+{
+    "2017_AttentionIsAllYouNeed_Vaswani": {
+        "metadata": {
+            "paper_id": "2017_AttentionIsAllYouNeed_Vaswani",
+            "year": "2017",
+            "title": "AttentionIsAllYouNeed",
+            "author": "Vaswani",
+            "source_file": "2017_AttentionIsAllYouNeed_Vaswani.pdf",
+            "total_images": 15
+        },
+        "text_file": "2017_AttentionIsAllYouNeed_Vaswani.md",
+        "images": [
+            {
+                "path": "./output/images/2017_AttentionIsAllYouNeed_Vaswani/a8df75a6-b0fa-492b-ae2c-287f5a0056bb-page_1.jpg",
+                "caption": "the components of the airfoil",
+                "modality": "image",
+                "page_no": 1,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2017_AttentionIsAllYouNeed_Vaswani/a8df75a6-b0fa-492b-ae2c-287f5a0056bb-page_2.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 2,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2017_AttentionIsAllYouNeed_Vaswani/a8df75a6-b0fa-492b-ae2c-287f5a0056bb-page_3.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 3,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2017_AttentionIsAllYouNeed_Vaswani/a8df75a6-b0fa-492b-ae2c-287f5a0056bb-page_4.jpg",
+                "caption": "the two components of a computer",
+                "modality": "image",
+                "page_no": 4,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2017_AttentionIsAllYouNeed_Vaswani/a8df75a6-b0fa-492b-ae2c-287f5a0056bb-page_5.jpg",
+                "caption": "the components of a system",
+                "modality": "image",
+                "page_no": 5,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2017_AttentionIsAllYouNeed_Vaswani/a8df75a6-b0fa-492b-ae2c-287f5a0056bb-page_6.jpg",
+                "caption": "the components of a hydraulic",
+                "modality": "image",
+                "page_no": 6,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2017_AttentionIsAllYouNeed_Vaswani/a8df75a6-b0fa-492b-ae2c-287f5a0056bb-page_7.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 7,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2017_AttentionIsAllYouNeed_Vaswani/a8df75a6-b0fa-492b-ae2c-287f5a0056bb-page_8.jpg",
+                "caption": "the number and type of the components",
+                "modality": "image",
+                "page_no": 8,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2017_AttentionIsAllYouNeed_Vaswani/a8df75a6-b0fa-492b-ae2c-287f5a0056bb-page_9.jpg",
+                "caption": "the number of the different components in the system",
+                "modality": "image",
+                "page_no": 9,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2017_AttentionIsAllYouNeed_Vaswani/a8df75a6-b0fa-492b-ae2c-287f5a0056bb-page_10.jpg",
+                "caption": "the components of the system",
+                "modality": "image",
+                "page_no": 10,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2017_AttentionIsAllYouNeed_Vaswani/a8df75a6-b0fa-492b-ae2c-287f5a0056bb-page_11.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 11,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2017_AttentionIsAllYouNeed_Vaswani/a8df75a6-b0fa-492b-ae2c-287f5a0056bb-page_12.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 12,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2017_AttentionIsAllYouNeed_Vaswani/a8df75a6-b0fa-492b-ae2c-287f5a0056bb-page_13.jpg",
+                "caption": "the number of the different types of the different types of the different types of the different",
+                "modality": "image",
+                "page_no": 13,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2017_AttentionIsAllYouNeed_Vaswani/a8df75a6-b0fa-492b-ae2c-287f5a0056bb-page_14.jpg",
+                "caption": "the number of the different types of the network",
+                "modality": "image",
+                "page_no": 14,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2017_AttentionIsAllYouNeed_Vaswani/a8df75a6-b0fa-492b-ae2c-287f5a0056bb-page_15.jpg",
+                "caption": "the number of the different types of the genomes",
+                "modality": "image",
+                "page_no": 15,
+                "section": "figures"
+            }
+        ]
+    },
+    "2018_BERT_Devlin": {
+        "metadata": {
+            "paper_id": "2018_BERT_Devlin",
+            "year": "2018",
+            "title": "BERT",
+            "author": "Devlin",
+            "source_file": "2018_BERT_Devlin.pdf",
+            "total_images": 16
+        },
+        "text_file": "2018_BERT_Devlin.md",
+        "images": [
+            {
+                "path": "./output/images/2018_BERT_Devlin/cbb1ca92-fa67-472d-9e6f-fdee8aef67ba-page_1.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 1,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2018_BERT_Devlin/cbb1ca92-fa67-472d-9e6f-fdee8aef67ba-page_2.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 2,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2018_BERT_Devlin/cbb1ca92-fa67-472d-9e6f-fdee8aef67ba-page_3.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 3,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2018_BERT_Devlin/cbb1ca92-fa67-472d-9e6f-fdee8aef67ba-page_4.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 4,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2018_BERT_Devlin/cbb1ca92-fa67-472d-9e6f-fdee8aef67ba-page_5.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 5,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2018_BERT_Devlin/cbb1ca92-fa67-472d-9e6f-fdee8aef67ba-page_6.jpg",
+                "caption": "the number of the components in the system",
+                "modality": "image",
+                "page_no": 6,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2018_BERT_Devlin/cbb1ca92-fa67-472d-9e6f-fdee8aef67ba-page_7.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 7,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2018_BERT_Devlin/cbb1ca92-fa67-472d-9e6f-fdee8aef67ba-page_8.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 8,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2018_BERT_Devlin/cbb1ca92-fa67-472d-9e6f-fdee8aef67ba-page_9.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 9,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2018_BERT_Devlin/cbb1ca92-fa67-472d-9e6f-fdee8aef67ba-page_10.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 10,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2018_BERT_Devlin/cbb1ca92-fa67-472d-9e6f-fdee8aef67ba-page_11.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 11,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2018_BERT_Devlin/cbb1ca92-fa67-472d-9e6f-fdee8aef67ba-page_12.jpg",
+                "caption": "the components of the system",
+                "modality": "image",
+                "page_no": 12,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2018_BERT_Devlin/cbb1ca92-fa67-472d-9e6f-fdee8aef67ba-page_13.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 13,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2018_BERT_Devlin/cbb1ca92-fa67-472d-9e6f-fdee8aef67ba-page_14.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 14,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2018_BERT_Devlin/cbb1ca92-fa67-472d-9e6f-fdee8aef67ba-page_15.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 15,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2018_BERT_Devlin/cbb1ca92-fa67-472d-9e6f-fdee8aef67ba-page_16.jpg",
+                "caption": "the different functions of the system",
+                "modality": "image",
+                "page_no": 16,
+                "section": "figures"
+            }
+        ]
+    },
+    "2020_GPT3_Brown": {
+        "metadata": {
+            "paper_id": "2020_GPT3_Brown",
+            "year": "2020",
+            "title": "GPT3",
+            "author": "Brown",
+            "source_file": "2020_GPT3_Brown.pdf",
+            "total_images": 75
+        },
+        "text_file": "2020_GPT3_Brown.md",
+        "images": [
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_1.jpg",
+                "caption": "the language and language of the language",
+                "modality": "image",
+                "page_no": 1,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_2.jpg",
+                "caption": "the components and functions of the system",
+                "modality": "image",
+                "page_no": 2,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_3.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 3,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_4.jpg",
+                "caption": "the number of different types of the system",
+                "modality": "image",
+                "page_no": 4,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_5.jpg",
+                "caption": "the number of different types of the system",
+                "modality": "image",
+                "page_no": 5,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_6.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 6,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_7.jpg",
+                "caption": "the different types of the software",
+                "modality": "image",
+                "page_no": 7,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_8.jpg",
+                "caption": "the number and type of the components",
+                "modality": "image",
+                "page_no": 8,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_9.jpg",
+                "caption": "the number of different types of the product",
+                "modality": "image",
+                "page_no": 9,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_10.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 10,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_11.jpg",
+                "caption": "the relationship between the two - dimensional and three - dimensional systems",
+                "modality": "image",
+                "page_no": 11,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_12.jpg",
+                "caption": "the number of the different components",
+                "modality": "image",
+                "page_no": 12,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_13.jpg",
+                "caption": "the number and type of the components",
+                "modality": "image",
+                "page_no": 13,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_14.jpg",
+                "caption": "the number of the different types of the system",
+                "modality": "image",
+                "page_no": 14,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_15.jpg",
+                "caption": "the number of different types of the system",
+                "modality": "image",
+                "page_no": 15,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_16.jpg",
+                "caption": "the number of the different components in the system",
+                "modality": "image",
+                "page_no": 16,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_17.jpg",
+                "caption": "the number of the different components in the system",
+                "modality": "image",
+                "page_no": 17,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_18.jpg",
+                "caption": "the components of the system",
+                "modality": "image",
+                "page_no": 18,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_19.jpg",
+                "caption": "the current current current current current current current current current current current current current current current current",
+                "modality": "image",
+                "page_no": 19,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_20.jpg",
+                "caption": "the number of different types of the system",
+                "modality": "image",
+                "page_no": 20,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_21.jpg",
+                "caption": "the number of the components in the system",
+                "modality": "image",
+                "page_no": 21,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_22.jpg",
+                "caption": "the number of the different components",
+                "modality": "image",
+                "page_no": 22,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_23.jpg",
+                "caption": "the number and type of the components",
+                "modality": "image",
+                "page_no": 23,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_24.jpg",
+                "caption": "the relationship between the two - phase and the three - phase phase",
+                "modality": "image",
+                "page_no": 24,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_25.jpg",
+                "caption": "the number of the different components in the system",
+                "modality": "image",
+                "page_no": 25,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_26.jpg",
+                "caption": "the number and type of the components",
+                "modality": "image",
+                "page_no": 26,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_27.jpg",
+                "caption": "the slope of the slope",
+                "modality": "image",
+                "page_no": 27,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_28.jpg",
+                "caption": "the layout of the system",
+                "modality": "image",
+                "page_no": 28,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_29.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 29,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_30.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 30,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_31.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 31,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_32.jpg",
+                "caption": "the relationship between the two components of the system",
+                "modality": "image",
+                "page_no": 32,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_33.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 33,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_34.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 34,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_35.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 35,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_36.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 36,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_37.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 37,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_38.jpg",
+                "caption": "the number of the different components",
+                "modality": "image",
+                "page_no": 38,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_39.jpg",
+                "caption": "the various components of a computer",
+                "modality": "image",
+                "page_no": 39,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_40.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 40,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_41.jpg",
+                "caption": "the components of the system",
+                "modality": "image",
+                "page_no": 41,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_42.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 42,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_43.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 43,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_44.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 44,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_45.jpg",
+                "caption": "the number of the different types of the products",
+                "modality": "image",
+                "page_no": 45,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_46.jpg",
+                "caption": "the number of different types of the equipment",
+                "modality": "image",
+                "page_no": 46,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_47.jpg",
+                "caption": "the relationship between the two - dimensional systems",
+                "modality": "image",
+                "page_no": 47,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_48.jpg",
+                "caption": "the components of the system",
+                "modality": "image",
+                "page_no": 48,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_49.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 49,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_50.jpg",
+                "caption": "the components of a hydraulic",
+                "modality": "image",
+                "page_no": 50,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_51.jpg",
+                "caption": "the layout of the system",
+                "modality": "image",
+                "page_no": 51,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_52.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 52,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_53.jpg",
+                "caption": "the components of the system",
+                "modality": "image",
+                "page_no": 53,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_54.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 54,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_55.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 55,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_56.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 56,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_57.jpg",
+                "caption": "the layout of the engine",
+                "modality": "image",
+                "page_no": 57,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_58.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 58,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_59.jpg",
+                "caption": "the components of the system",
+                "modality": "image",
+                "page_no": 59,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_60.jpg",
+                "caption": "the components of a computer system",
+                "modality": "image",
+                "page_no": 60,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_61.jpg",
+                "caption": "the components of the system",
+                "modality": "image",
+                "page_no": 61,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_62.jpg",
+                "caption": "the components of the system",
+                "modality": "image",
+                "page_no": 62,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_63.jpg",
+                "caption": "the number of the different parts",
+                "modality": "image",
+                "page_no": 63,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_64.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 64,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_65.jpg",
+                "caption": "the different components of the system",
+                "modality": "image",
+                "page_no": 65,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_66.jpg",
+                "caption": "the different components of the engine",
+                "modality": "image",
+                "page_no": 66,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_67.jpg",
+                "caption": "the different types of the aircraft",
+                "modality": "image",
+                "page_no": 67,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_68.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 68,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_69.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 69,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_70.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 70,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_71.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 71,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_72.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 72,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_73.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 73,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_74.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 74,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_GPT3_Brown/b07b1a5f-77c7-43be-86aa-6ba7b5eb264d-page_75.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 75,
+                "section": "figures"
+            }
+        ]
+    },
+    "2020_RAG_Lewis": {
+        "metadata": {
+            "paper_id": "2020_RAG_Lewis",
+            "year": "2020",
+            "title": "RAG",
+            "author": "Lewis",
+            "source_file": "2020_RAG_Lewis.pdf",
+            "total_images": 19
+        },
+        "text_file": "2020_RAG_Lewis.md",
+        "images": [
+            {
+                "path": "./output/images/2020_RAG_Lewis/6c6d1486-de01-4527-a760-4a85e8ae22d5-page_1.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 1,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_RAG_Lewis/6c6d1486-de01-4527-a760-4a85e8ae22d5-page_2.jpg",
+                "caption": "the process of the system",
+                "modality": "image",
+                "page_no": 2,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_RAG_Lewis/6c6d1486-de01-4527-a760-4a85e8ae22d5-page_3.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 3,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_RAG_Lewis/6c6d1486-de01-4527-a760-4a85e8ae22d5-page_4.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 4,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_RAG_Lewis/6c6d1486-de01-4527-a760-4a85e8ae22d5-page_5.jpg",
+                "caption": "the components of the system",
+                "modality": "image",
+                "page_no": 5,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_RAG_Lewis/6c6d1486-de01-4527-a760-4a85e8ae22d5-page_6.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 6,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_RAG_Lewis/6c6d1486-de01-4527-a760-4a85e8ae22d5-page_7.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 7,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_RAG_Lewis/6c6d1486-de01-4527-a760-4a85e8ae22d5-page_8.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 8,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_RAG_Lewis/6c6d1486-de01-4527-a760-4a85e8ae22d5-page_9.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 9,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_RAG_Lewis/6c6d1486-de01-4527-a760-4a85e8ae22d5-page_10.jpg",
+                "caption": "the components of the system",
+                "modality": "image",
+                "page_no": 10,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_RAG_Lewis/6c6d1486-de01-4527-a760-4a85e8ae22d5-page_11.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 11,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_RAG_Lewis/6c6d1486-de01-4527-a760-4a85e8ae22d5-page_12.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 12,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_RAG_Lewis/6c6d1486-de01-4527-a760-4a85e8ae22d5-page_13.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 13,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_RAG_Lewis/6c6d1486-de01-4527-a760-4a85e8ae22d5-page_14.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 14,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_RAG_Lewis/6c6d1486-de01-4527-a760-4a85e8ae22d5-page_15.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 15,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_RAG_Lewis/6c6d1486-de01-4527-a760-4a85e8ae22d5-page_16.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 16,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_RAG_Lewis/6c6d1486-de01-4527-a760-4a85e8ae22d5-page_17.jpg",
+                "caption": "the different functions of the system",
+                "modality": "image",
+                "page_no": 17,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_RAG_Lewis/6c6d1486-de01-4527-a760-4a85e8ae22d5-page_18.jpg",
+                "caption": "the components of the system",
+                "modality": "image",
+                "page_no": 18,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_RAG_Lewis/6c6d1486-de01-4527-a760-4a85e8ae22d5-page_19.jpg",
+                "caption": "the number and type of the components",
+                "modality": "image",
+                "page_no": 19,
+                "section": "figures"
+            }
+        ]
+    },
+    "2020_ViT_Dosovitskiy": {
+        "metadata": {
+            "paper_id": "2020_ViT_Dosovitskiy",
+            "year": "2020",
+            "title": "ViT",
+            "author": "Dosovitskiy",
+            "source_file": "2020_ViT_Dosovitskiy.pdf",
+            "total_images": 22
+        },
+        "text_file": "2020_ViT_Dosovitskiy.md",
+        "images": [
+            {
+                "path": "./output/images/2020_ViT_Dosovitskiy/b70f32e7-ada8-4bae-a23c-8ee6d2b29442-page_1.jpg",
+                "caption": "the components of an engine",
+                "modality": "image",
+                "page_no": 1,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_ViT_Dosovitskiy/b70f32e7-ada8-4bae-a23c-8ee6d2b29442-page_2.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 2,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_ViT_Dosovitskiy/b70f32e7-ada8-4bae-a23c-8ee6d2b29442-page_3.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 3,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_ViT_Dosovitskiy/b70f32e7-ada8-4bae-a23c-8ee6d2b29442-page_4.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 4,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_ViT_Dosovitskiy/b70f32e7-ada8-4bae-a23c-8ee6d2b29442-page_5.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 5,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_ViT_Dosovitskiy/b70f32e7-ada8-4bae-a23c-8ee6d2b29442-page_6.jpg",
+                "caption": "the number of different types of the products",
+                "modality": "image",
+                "page_no": 6,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_ViT_Dosovitskiy/b70f32e7-ada8-4bae-a23c-8ee6d2b29442-page_7.jpg",
+                "caption": "the results of the two different systems",
+                "modality": "image",
+                "page_no": 7,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_ViT_Dosovitskiy/b70f32e7-ada8-4bae-a23c-8ee6d2b29442-page_8.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 8,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_ViT_Dosovitskiy/b70f32e7-ada8-4bae-a23c-8ee6d2b29442-page_9.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 9,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_ViT_Dosovitskiy/b70f32e7-ada8-4bae-a23c-8ee6d2b29442-page_10.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 10,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_ViT_Dosovitskiy/b70f32e7-ada8-4bae-a23c-8ee6d2b29442-page_11.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 11,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_ViT_Dosovitskiy/b70f32e7-ada8-4bae-a23c-8ee6d2b29442-page_12.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 12,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_ViT_Dosovitskiy/b70f32e7-ada8-4bae-a23c-8ee6d2b29442-page_13.jpg",
+                "caption": "the number and type of the components",
+                "modality": "image",
+                "page_no": 13,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_ViT_Dosovitskiy/b70f32e7-ada8-4bae-a23c-8ee6d2b29442-page_14.jpg",
+                "caption": "the components of a hydraulic",
+                "modality": "image",
+                "page_no": 14,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_ViT_Dosovitskiy/b70f32e7-ada8-4bae-a23c-8ee6d2b29442-page_15.jpg",
+                "caption": "the number and type of the components",
+                "modality": "image",
+                "page_no": 15,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_ViT_Dosovitskiy/b70f32e7-ada8-4bae-a23c-8ee6d2b29442-page_16.jpg",
+                "caption": "the number of different types of the",
+                "modality": "image",
+                "page_no": 16,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_ViT_Dosovitskiy/b70f32e7-ada8-4bae-a23c-8ee6d2b29442-page_17.jpg",
+                "caption": "the relationship between the two - dimensional systems",
+                "modality": "image",
+                "page_no": 17,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_ViT_Dosovitskiy/b70f32e7-ada8-4bae-a23c-8ee6d2b29442-page_18.jpg",
+                "caption": "the number of different types of the different types of the different types of the different types",
+                "modality": "image",
+                "page_no": 18,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_ViT_Dosovitskiy/b70f32e7-ada8-4bae-a23c-8ee6d2b29442-page_19.jpg",
+                "caption": "the number of the different types of the system",
+                "modality": "image",
+                "page_no": 19,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_ViT_Dosovitskiy/b70f32e7-ada8-4bae-a23c-8ee6d2b29442-page_20.jpg",
+                "caption": "the various functions of the system",
+                "modality": "image",
+                "page_no": 20,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_ViT_Dosovitskiy/b70f32e7-ada8-4bae-a23c-8ee6d2b29442-page_21.jpg",
+                "caption": "the various types of the project",
+                "modality": "image",
+                "page_no": 21,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2020_ViT_Dosovitskiy/b70f32e7-ada8-4bae-a23c-8ee6d2b29442-page_22.jpg",
+                "caption": "the number of the components",
+                "modality": "image",
+                "page_no": 22,
+                "section": "figures"
+            }
+        ]
+    },
+    "2021_CLIP_Radford": {
+        "metadata": {
+            "paper_id": "2021_CLIP_Radford",
+            "year": "2021",
+            "title": "CLIP",
+            "author": "Radford",
+            "source_file": "2021_CLIP_Radford.pdf",
+            "total_images": 48
+        },
+        "text_file": "2021_CLIP_Radford.md",
+        "images": [
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_1.jpg",
+                "caption": "the different types of the language",
+                "modality": "image",
+                "page_no": 1,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_2.jpg",
+                "caption": "the various components of a computer",
+                "modality": "image",
+                "page_no": 2,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_3.jpg",
+                "caption": "the number of different types of the system",
+                "modality": "image",
+                "page_no": 3,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_4.jpg",
+                "caption": "the various components of a computer",
+                "modality": "image",
+                "page_no": 4,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_5.jpg",
+                "caption": "the functions of the system",
+                "modality": "image",
+                "page_no": 5,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_6.jpg",
+                "caption": "the various components of a computer",
+                "modality": "image",
+                "page_no": 6,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_7.jpg",
+                "caption": "the relationship between the two - dimensional systems",
+                "modality": "image",
+                "page_no": 7,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_8.jpg",
+                "caption": "the number of the different types of the components",
+                "modality": "image",
+                "page_no": 8,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_9.jpg",
+                "caption": "the current voltages and current voltages",
+                "modality": "image",
+                "page_no": 9,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_10.jpg",
+                "caption": "the relationship between the two - dimensional systems",
+                "modality": "image",
+                "page_no": 10,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_11.jpg",
+                "caption": "the relationship between the two - dimensional systems",
+                "modality": "image",
+                "page_no": 11,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_12.jpg",
+                "caption": "the results of the two different processes",
+                "modality": "image",
+                "page_no": 12,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_13.jpg",
+                "caption": "the number of the different components in the system",
+                "modality": "image",
+                "page_no": 13,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_14.jpg",
+                "caption": "the relationship between the two variables",
+                "modality": "image",
+                "page_no": 14,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_15.jpg",
+                "caption": "the results of the results of the results",
+                "modality": "image",
+                "page_no": 15,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_16.jpg",
+                "caption": "the number of different types of the different types of the different types of the",
+                "modality": "image",
+                "page_no": 16,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_17.jpg",
+                "caption": "the number of different types of the system",
+                "modality": "image",
+                "page_no": 17,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_18.jpg",
+                "caption": "the number of the different types of the system",
+                "modality": "image",
+                "page_no": 18,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_19.jpg",
+                "caption": "the relationship between the two - dimensional systems",
+                "modality": "image",
+                "page_no": 19,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_20.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 20,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_21.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 21,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_22.jpg",
+                "caption": "the number and type of the components of the system",
+                "modality": "image",
+                "page_no": 22,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_23.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 23,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_24.jpg",
+                "caption": "the number of different types of the system",
+                "modality": "image",
+                "page_no": 24,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_25.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 25,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_26.jpg",
+                "caption": "the various types of the system",
+                "modality": "image",
+                "page_no": 26,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_27.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 27,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_28.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 28,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_29.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 29,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_30.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 30,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_31.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 31,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_32.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 32,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_33.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 33,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_34.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 34,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_35.jpg",
+                "caption": "the various types of the system",
+                "modality": "image",
+                "page_no": 35,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_36.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 36,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_37.jpg",
+                "caption": "the components of the system",
+                "modality": "image",
+                "page_no": 37,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_38.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 38,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_39.jpg",
+                "caption": "the number of different components",
+                "modality": "image",
+                "page_no": 39,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_40.jpg",
+                "caption": "the number of the different parts of the machine",
+                "modality": "image",
+                "page_no": 40,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_41.jpg",
+                "caption": "the number of different types of the system",
+                "modality": "image",
+                "page_no": 41,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_42.jpg",
+                "caption": "the various types of the vehicle",
+                "modality": "image",
+                "page_no": 42,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_43.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 43,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_44.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 44,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_45.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 45,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_46.jpg",
+                "caption": "the number and type of the components",
+                "modality": "image",
+                "page_no": 46,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_47.jpg",
+                "caption": "the number and type of the components",
+                "modality": "image",
+                "page_no": 47,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2021_CLIP_Radford/b96e9e86-4650-45f2-bbe1-39e4545e727b-page_48.jpg",
+                "caption": "the different components of the system",
+                "modality": "image",
+                "page_no": 48,
+                "section": "figures"
+            }
+        ]
+    },
+    "2023_GPT4_OpenAI": {
+        "metadata": {
+            "paper_id": "2023_GPT4_OpenAI",
+            "year": "2023",
+            "title": "GPT4",
+            "author": "OpenAI",
+            "source_file": "2023_GPT4_OpenAI.pdf",
+            "total_images": 100
+        },
+        "text_file": "2023_GPT4_OpenAI.md",
+        "images": [
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_1.jpg",
+                "caption": "the components of the gpt",
+                "modality": "image",
+                "page_no": 1,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_2.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 2,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_3.jpg",
+                "caption": "the different functions of the system",
+                "modality": "image",
+                "page_no": 3,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_4.jpg",
+                "caption": "the direction of the plane",
+                "modality": "image",
+                "page_no": 4,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_5.jpg",
+                "caption": "the number of different types of the components",
+                "modality": "image",
+                "page_no": 5,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_6.jpg",
+                "caption": "the number of different types of the system",
+                "modality": "image",
+                "page_no": 6,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_7.jpg",
+                "caption": "the number of different components",
+                "modality": "image",
+                "page_no": 7,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_8.jpg",
+                "caption": "the number of different types of the software",
+                "modality": "image",
+                "page_no": 8,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_9.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 9,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_10.jpg",
+                "caption": "the number of different types of the products",
+                "modality": "image",
+                "page_no": 10,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_11.jpg",
+                "caption": "the number of different components",
+                "modality": "image",
+                "page_no": 11,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_12.jpg",
+                "caption": "the number of the different components in the system",
+                "modality": "image",
+                "page_no": 12,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_13.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 13,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_14.jpg",
+                "caption": "the number of different types of the product",
+                "modality": "image",
+                "page_no": 14,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_15.jpg",
+                "caption": "the various components of the aircraft",
+                "modality": "image",
+                "page_no": 15,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_16.jpg",
+                "caption": "the various parts of the vehicle",
+                "modality": "image",
+                "page_no": 16,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_17.jpg",
+                "caption": "the different parts of the vehicle",
+                "modality": "image",
+                "page_no": 17,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_18.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 18,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_19.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 19,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_20.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 20,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_21.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 21,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_22.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 22,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_23.jpg",
+                "caption": "the components of the system",
+                "modality": "image",
+                "page_no": 23,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_24.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 24,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_25.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 25,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_26.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 26,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_27.jpg",
+                "caption": "the layout of the system",
+                "modality": "image",
+                "page_no": 27,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_28.jpg",
+                "caption": "the number of the components in the system",
+                "modality": "image",
+                "page_no": 28,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_29.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 29,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_30.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 30,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_31.jpg",
+                "caption": "the number of different types of the products",
+                "modality": "image",
+                "page_no": 31,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_32.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 32,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_33.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 33,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_34.jpg",
+                "caption": "the different components of a computer",
+                "modality": "image",
+                "page_no": 34,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_35.jpg",
+                "caption": "the components of a hydraulic system",
+                "modality": "image",
+                "page_no": 35,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_36.jpg",
+                "caption": "the location of the vehicle",
+                "modality": "image",
+                "page_no": 36,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_37.jpg",
+                "caption": "the different components of the system",
+                "modality": "image",
+                "page_no": 37,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_38.jpg",
+                "caption": "the location of the surface of the earth",
+                "modality": "image",
+                "page_no": 38,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_39.jpg",
+                "caption": "the different parts of a machine",
+                "modality": "image",
+                "page_no": 39,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_40.jpg",
+                "caption": "the components of the system",
+                "modality": "image",
+                "page_no": 40,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_41.jpg",
+                "caption": "the layout of a computer",
+                "modality": "image",
+                "page_no": 41,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_42.jpg",
+                "caption": "the various components of a computer",
+                "modality": "image",
+                "page_no": 42,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_43.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 43,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_44.jpg",
+                "caption": "the different components of the system",
+                "modality": "image",
+                "page_no": 44,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_45.jpg",
+                "caption": "the various components of a computer",
+                "modality": "image",
+                "page_no": 45,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_46.jpg",
+                "caption": "the various components of a computer",
+                "modality": "image",
+                "page_no": 46,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_47.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 47,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_48.jpg",
+                "caption": "the different types of the software",
+                "modality": "image",
+                "page_no": 48,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_49.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 49,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_50.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 50,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_51.jpg",
+                "caption": "the different components of a computer",
+                "modality": "image",
+                "page_no": 51,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_52.jpg",
+                "caption": "the various components of a hydraulic",
+                "modality": "image",
+                "page_no": 52,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_53.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 53,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_54.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 54,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_55.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 55,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_56.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 56,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_57.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 57,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_58.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 58,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_59.jpg",
+                "caption": "the various components of a computer",
+                "modality": "image",
+                "page_no": 59,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_60.jpg",
+                "caption": "the various components of a computer",
+                "modality": "image",
+                "page_no": 60,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_61.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 61,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_62.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 62,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_63.jpg",
+                "caption": "the number of the components in the system",
+                "modality": "image",
+                "page_no": 63,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_64.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 64,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_65.jpg",
+                "caption": "the number of the different components in the system",
+                "modality": "image",
+                "page_no": 65,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_66.jpg",
+                "caption": "the components of a system",
+                "modality": "image",
+                "page_no": 66,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_67.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 67,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_68.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 68,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_69.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 69,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_70.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 70,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_71.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 71,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_72.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 72,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_73.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 73,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_74.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 74,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_75.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 75,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_76.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 76,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_77.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 77,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_78.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 78,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_79.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 79,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_80.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 80,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_81.jpg",
+                "caption": "the components of the system",
+                "modality": "image",
+                "page_no": 81,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_82.jpg",
+                "caption": "the different functions of the equipment",
+                "modality": "image",
+                "page_no": 82,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_83.jpg",
+                "caption": "the different functions of the oil",
+                "modality": "image",
+                "page_no": 83,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_84.jpg",
+                "caption": "the components of a hydraulic hydraulic",
+                "modality": "image",
+                "page_no": 84,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_85.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 85,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_86.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 86,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_87.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 87,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_88.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 88,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_89.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 89,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_90.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 90,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_91.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 91,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_92.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 92,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_93.jpg",
+                "caption": "the different functions of the system",
+                "modality": "image",
+                "page_no": 93,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_94.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 94,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_95.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 95,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_96.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 96,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_97.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 97,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_98.jpg",
+                "caption": "the number of different components",
+                "modality": "image",
+                "page_no": 98,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_99.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 99,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_GPT4_OpenAI/02548df9-1232-4183-bbe3-e5241b6c8bad-page_100.jpg",
+                "caption": "the components of the system",
+                "modality": "image",
+                "page_no": 100,
+                "section": "figures"
+            }
+        ]
+    },
+    "2023_Llama2_Touvron": {
+        "metadata": {
+            "paper_id": "2023_Llama2_Touvron",
+            "year": "2023",
+            "title": "Llama2",
+            "author": "Touvron",
+            "source_file": "2023_Llama2_Touvron.pdf",
+            "total_images": 77
+        },
+        "text_file": "2023_Llama2_Touvron.md",
+        "images": [
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_1.jpg",
+                "caption": "the layout of the lsa open foundation",
+                "modality": "image",
+                "page_no": 1,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_2.jpg",
+                "caption": "the components of the system",
+                "modality": "image",
+                "page_no": 2,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_3.jpg",
+                "caption": "the number of different types of the different types of the different types of the different types",
+                "modality": "image",
+                "page_no": 3,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_4.jpg",
+                "caption": "the number of different types of the system",
+                "modality": "image",
+                "page_no": 4,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_5.jpg",
+                "caption": "the process of the project",
+                "modality": "image",
+                "page_no": 5,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_6.jpg",
+                "caption": "the number of the different components",
+                "modality": "image",
+                "page_no": 6,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_7.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 7,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_8.jpg",
+                "caption": "the number of the different components",
+                "modality": "image",
+                "page_no": 8,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_9.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 9,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_10.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 10,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_11.jpg",
+                "caption": "the number of the different components",
+                "modality": "image",
+                "page_no": 11,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_12.jpg",
+                "caption": "the number of the different components",
+                "modality": "image",
+                "page_no": 12,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_13.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 13,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_14.jpg",
+                "caption": "the number of the different types of the system",
+                "modality": "image",
+                "page_no": 14,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_15.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 15,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_16.jpg",
+                "caption": "the different features of the software",
+                "modality": "image",
+                "page_no": 16,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_17.jpg",
+                "caption": "the number of the different types of the genomes",
+                "modality": "image",
+                "page_no": 17,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_18.jpg",
+                "caption": "the number of the different components in the system",
+                "modality": "image",
+                "page_no": 18,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_19.jpg",
+                "caption": "the number of different types of the product",
+                "modality": "image",
+                "page_no": 19,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_20.jpg",
+                "caption": "the various components of a system",
+                "modality": "image",
+                "page_no": 20,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_21.jpg",
+                "caption": "the number of different types of the system",
+                "modality": "image",
+                "page_no": 21,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_22.jpg",
+                "caption": "the number of the different components",
+                "modality": "image",
+                "page_no": 22,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_23.jpg",
+                "caption": "the number and type of the components",
+                "modality": "image",
+                "page_no": 23,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_24.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 24,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_25.jpg",
+                "caption": "the results of the two - dimensional models",
+                "modality": "image",
+                "page_no": 25,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_26.jpg",
+                "caption": "the number of different types of the different types of the different types of the different types",
+                "modality": "image",
+                "page_no": 26,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_27.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 27,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_28.jpg",
+                "caption": "the results of the results of the results",
+                "modality": "image",
+                "page_no": 28,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_29.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 29,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_30.jpg",
+                "caption": "the number of different types of the system",
+                "modality": "image",
+                "page_no": 30,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_31.jpg",
+                "caption": "the number of the different types of the different types of the different types of the different",
+                "modality": "image",
+                "page_no": 31,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_32.jpg",
+                "caption": "the number of people who have been in the past",
+                "modality": "image",
+                "page_no": 32,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_33.jpg",
+                "caption": "the results of the two different processes",
+                "modality": "image",
+                "page_no": 33,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_34.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 34,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_35.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 35,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_36.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 36,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_37.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 37,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_38.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 38,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_39.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 39,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_40.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 40,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_41.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 41,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_42.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 42,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_43.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 43,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_44.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 44,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_45.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 45,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_46.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 46,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_47.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 47,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_48.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 48,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_49.jpg",
+                "caption": "the number of different types of the products",
+                "modality": "image",
+                "page_no": 49,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_50.jpg",
+                "caption": "the number and type of the components",
+                "modality": "image",
+                "page_no": 50,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_51.jpg",
+                "caption": "the different functions of the system",
+                "modality": "image",
+                "page_no": 51,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_52.jpg",
+                "caption": "the number of the different components",
+                "modality": "image",
+                "page_no": 52,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_53.jpg",
+                "caption": "the number of different types of the different types of the system",
+                "modality": "image",
+                "page_no": 53,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_54.jpg",
+                "caption": "the number of the different components in the system",
+                "modality": "image",
+                "page_no": 54,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_55.jpg",
+                "caption": "the different types of the software",
+                "modality": "image",
+                "page_no": 55,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_56.jpg",
+                "caption": "the various components of a hydraulic system",
+                "modality": "image",
+                "page_no": 56,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_57.jpg",
+                "caption": "the number of the components in the system",
+                "modality": "image",
+                "page_no": 57,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_58.jpg",
+                "caption": "the number of the different components in the system",
+                "modality": "image",
+                "page_no": 58,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_59.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 59,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_60.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 60,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_61.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 61,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_62.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 62,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_63.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 63,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_64.jpg",
+                "caption": "the different areas of the brain",
+                "modality": "image",
+                "page_no": 64,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_65.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 65,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_66.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 66,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_67.jpg",
+                "caption": "the relationship between the two - dimensional points",
+                "modality": "image",
+                "page_no": 67,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_68.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 68,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_69.jpg",
+                "caption": "the components of the system",
+                "modality": "image",
+                "page_no": 69,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_70.jpg",
+                "caption": "the number and type of the components",
+                "modality": "image",
+                "page_no": 70,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_71.jpg",
+                "caption": "the number of different types of the equipment",
+                "modality": "image",
+                "page_no": 71,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_72.jpg",
+                "caption": "the number of the different components",
+                "modality": "image",
+                "page_no": 72,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_73.jpg",
+                "caption": "the number of different types of the products",
+                "modality": "image",
+                "page_no": 73,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_74.jpg",
+                "caption": "the various components of a computer",
+                "modality": "image",
+                "page_no": 74,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_75.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 75,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_76.jpg",
+                "caption": "the number of different components",
+                "modality": "image",
+                "page_no": 76,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_Llama2_Touvron/174e7d28-eeca-4ff8-8243-f61028c9b788-page_77.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 77,
+                "section": "figures"
+            }
+        ]
+    },
+    "2023_LLaVA_Liu": {
+        "metadata": {
+            "paper_id": "2023_LLaVA_Liu",
+            "year": "2023",
+            "title": "LLaVA",
+            "author": "Liu",
+            "source_file": "2023_LLaVA_Liu.pdf",
+            "total_images": 25
+        },
+        "text_file": "2023_LLaVA_Liu.md",
+        "images": [
+            {
+                "path": "./output/images/2023_LLaVA_Liu/8c1511ab-0d4c-45b0-b241-3a77a02c4064-page_1.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 1,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_LLaVA_Liu/8c1511ab-0d4c-45b0-b241-3a77a02c4064-page_2.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 2,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_LLaVA_Liu/8c1511ab-0d4c-45b0-b241-3a77a02c4064-page_3.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 3,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_LLaVA_Liu/8c1511ab-0d4c-45b0-b241-3a77a02c4064-page_4.jpg",
+                "caption": "the relationship between the two - dimensional systems",
+                "modality": "image",
+                "page_no": 4,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_LLaVA_Liu/8c1511ab-0d4c-45b0-b241-3a77a02c4064-page_5.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 5,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_LLaVA_Liu/8c1511ab-0d4c-45b0-b241-3a77a02c4064-page_6.jpg",
+                "caption": "the location of the vehicle",
+                "modality": "image",
+                "page_no": 6,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_LLaVA_Liu/8c1511ab-0d4c-45b0-b241-3a77a02c4064-page_7.jpg",
+                "caption": "the number of the components in the system",
+                "modality": "image",
+                "page_no": 7,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_LLaVA_Liu/8c1511ab-0d4c-45b0-b241-3a77a02c4064-page_8.jpg",
+                "caption": "the process of the process",
+                "modality": "image",
+                "page_no": 8,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_LLaVA_Liu/8c1511ab-0d4c-45b0-b241-3a77a02c4064-page_9.jpg",
+                "caption": "the various functions of the system",
+                "modality": "image",
+                "page_no": 9,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_LLaVA_Liu/8c1511ab-0d4c-45b0-b241-3a77a02c4064-page_10.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 10,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_LLaVA_Liu/8c1511ab-0d4c-45b0-b241-3a77a02c4064-page_11.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 11,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_LLaVA_Liu/8c1511ab-0d4c-45b0-b241-3a77a02c4064-page_12.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 12,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_LLaVA_Liu/8c1511ab-0d4c-45b0-b241-3a77a02c4064-page_13.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 13,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_LLaVA_Liu/8c1511ab-0d4c-45b0-b241-3a77a02c4064-page_14.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 14,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_LLaVA_Liu/8c1511ab-0d4c-45b0-b241-3a77a02c4064-page_15.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 15,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_LLaVA_Liu/8c1511ab-0d4c-45b0-b241-3a77a02c4064-page_16.jpg",
+                "caption": "the layout of the website",
+                "modality": "image",
+                "page_no": 16,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_LLaVA_Liu/8c1511ab-0d4c-45b0-b241-3a77a02c4064-page_17.jpg",
+                "caption": "the different types of the project",
+                "modality": "image",
+                "page_no": 17,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_LLaVA_Liu/8c1511ab-0d4c-45b0-b241-3a77a02c4064-page_18.jpg",
+                "caption": "the different types of the web",
+                "modality": "image",
+                "page_no": 18,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_LLaVA_Liu/8c1511ab-0d4c-45b0-b241-3a77a02c4064-page_19.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 19,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_LLaVA_Liu/8c1511ab-0d4c-45b0-b241-3a77a02c4064-page_20.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 20,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_LLaVA_Liu/8c1511ab-0d4c-45b0-b241-3a77a02c4064-page_21.jpg",
+                "caption": "the number of the components in the system",
+                "modality": "image",
+                "page_no": 21,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_LLaVA_Liu/8c1511ab-0d4c-45b0-b241-3a77a02c4064-page_22.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 22,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_LLaVA_Liu/8c1511ab-0d4c-45b0-b241-3a77a02c4064-page_23.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 23,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_LLaVA_Liu/8c1511ab-0d4c-45b0-b241-3a77a02c4064-page_24.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 24,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_LLaVA_Liu/8c1511ab-0d4c-45b0-b241-3a77a02c4064-page_25.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 25,
+                "section": "figures"
+            }
+        ]
+    },
+    "2023_SelfRAG_Asai": {
+        "metadata": {
+            "paper_id": "2023_SelfRAG_Asai",
+            "year": "2023",
+            "title": "SelfRAG",
+            "author": "Asai",
+            "source_file": "2023_SelfRAG_Asai.pdf",
+            "total_images": 30
+        },
+        "text_file": "2023_SelfRAG_Asai.md",
+        "images": [
+            {
+                "path": "./output/images/2023_SelfRAG_Asai/37282986-71be-4547-ac37-989714cb6896-page_1.jpg",
+                "caption": "the structure and characteristics of the system",
+                "modality": "image",
+                "page_no": 1,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_SelfRAG_Asai/37282986-71be-4547-ac37-989714cb6896-page_2.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 2,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_SelfRAG_Asai/37282986-71be-4547-ac37-989714cb6896-page_3.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 3,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_SelfRAG_Asai/37282986-71be-4547-ac37-989714cb6896-page_4.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 4,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_SelfRAG_Asai/37282986-71be-4547-ac37-989714cb6896-page_5.jpg",
+                "caption": "the different components of a computer",
+                "modality": "image",
+                "page_no": 5,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_SelfRAG_Asai/37282986-71be-4547-ac37-989714cb6896-page_6.jpg",
+                "caption": "the various components of a computer",
+                "modality": "image",
+                "page_no": 6,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_SelfRAG_Asai/37282986-71be-4547-ac37-989714cb6896-page_7.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 7,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_SelfRAG_Asai/37282986-71be-4547-ac37-989714cb6896-page_8.jpg",
+                "caption": "the number and type of the components in the system",
+                "modality": "image",
+                "page_no": 8,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_SelfRAG_Asai/37282986-71be-4547-ac37-989714cb6896-page_9.jpg",
+                "caption": "the relationship between the two - phased and three - phased phased phased",
+                "modality": "image",
+                "page_no": 9,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_SelfRAG_Asai/37282986-71be-4547-ac37-989714cb6896-page_10.jpg",
+                "caption": "the flow of the water in a stream",
+                "modality": "image",
+                "page_no": 10,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_SelfRAG_Asai/37282986-71be-4547-ac37-989714cb6896-page_11.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 11,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_SelfRAG_Asai/37282986-71be-4547-ac37-989714cb6896-page_12.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 12,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_SelfRAG_Asai/37282986-71be-4547-ac37-989714cb6896-page_13.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 13,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_SelfRAG_Asai/37282986-71be-4547-ac37-989714cb6896-page_14.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 14,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_SelfRAG_Asai/37282986-71be-4547-ac37-989714cb6896-page_15.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 15,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_SelfRAG_Asai/37282986-71be-4547-ac37-989714cb6896-page_16.jpg",
+                "caption": "the components of the system",
+                "modality": "image",
+                "page_no": 16,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_SelfRAG_Asai/37282986-71be-4547-ac37-989714cb6896-page_17.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 17,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_SelfRAG_Asai/37282986-71be-4547-ac37-989714cb6896-page_18.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 18,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_SelfRAG_Asai/37282986-71be-4547-ac37-989714cb6896-page_19.jpg",
+                "caption": "the functions of the system",
+                "modality": "image",
+                "page_no": 19,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_SelfRAG_Asai/37282986-71be-4547-ac37-989714cb6896-page_20.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 20,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_SelfRAG_Asai/37282986-71be-4547-ac37-989714cb6896-page_21.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 21,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_SelfRAG_Asai/37282986-71be-4547-ac37-989714cb6896-page_22.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 22,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_SelfRAG_Asai/37282986-71be-4547-ac37-989714cb6896-page_23.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 23,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_SelfRAG_Asai/37282986-71be-4547-ac37-989714cb6896-page_24.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 24,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_SelfRAG_Asai/37282986-71be-4547-ac37-989714cb6896-page_25.jpg",
+                "caption": "the layout of a computer",
+                "modality": "image",
+                "page_no": 25,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_SelfRAG_Asai/37282986-71be-4547-ac37-989714cb6896-page_26.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 26,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_SelfRAG_Asai/37282986-71be-4547-ac37-989714cb6896-page_27.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 27,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_SelfRAG_Asai/37282986-71be-4547-ac37-989714cb6896-page_28.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 28,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_SelfRAG_Asai/37282986-71be-4547-ac37-989714cb6896-page_29.jpg",
+                "caption": "the various components of a computer",
+                "modality": "image",
+                "page_no": 29,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/2023_SelfRAG_Asai/37282986-71be-4547-ac37-989714cb6896-page_30.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 30,
+                "section": "figures"
+            }
+        ]
+    },
+    "recursive language model": {
+        "metadata": {
+            "paper_id": "recursive language model",
+            "year": "Unknown",
+            "title": "Unknown",
+            "author": "Unknown",
+            "source_file": "recursive language model.pdf",
+            "total_images": 38
+        },
+        "text_file": "recursive language model.md",
+        "images": [
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_1.jpg",
+                "caption": "the results of the results",
+                "modality": "image",
+                "page_no": 1,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_2.jpg",
+                "caption": "the different functions of the system",
+                "modality": "image",
+                "page_no": 2,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_3.jpg",
+                "caption": "the functions of the system",
+                "modality": "image",
+                "page_no": 3,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_4.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 4,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_5.jpg",
+                "caption": "the number of the different components",
+                "modality": "image",
+                "page_no": 5,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_6.jpg",
+                "caption": "the number of the different types of the components",
+                "modality": "image",
+                "page_no": 6,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_7.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 7,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_8.jpg",
+                "caption": "the different functions of the software",
+                "modality": "image",
+                "page_no": 8,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_9.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 9,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_10.jpg",
+                "caption": "the various types of the system",
+                "modality": "image",
+                "page_no": 10,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_11.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 11,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_12.jpg",
+                "caption": "the various components of the system",
+                "modality": "image",
+                "page_no": 12,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_13.jpg",
+                "caption": "the number of the different types of the",
+                "modality": "image",
+                "page_no": 13,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_14.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 14,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_15.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 15,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_16.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 16,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_17.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 17,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_18.jpg",
+                "caption": "the components of a computer",
+                "modality": "image",
+                "page_no": 18,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_19.jpg",
+                "caption": "the components of the system",
+                "modality": "image",
+                "page_no": 19,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_20.jpg",
+                "caption": "the different types of the system",
+                "modality": "image",
+                "page_no": 20,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_21.jpg",
+                "caption": "the different parts of a vehicle",
+                "modality": "image",
+                "page_no": 21,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_22.jpg",
+                "caption": "the different parts of a computer",
+                "modality": "image",
+                "page_no": 22,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_23.jpg",
+                "caption": "the number of different types of the system",
+                "modality": "image",
+                "page_no": 23,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_24.jpg",
+                "caption": "the different functions of the system",
+                "modality": "image",
+                "page_no": 24,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_25.jpg",
+                "caption": "the different functions of the software",
+                "modality": "image",
+                "page_no": 25,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_26.jpg",
+                "caption": "the different types of the software",
+                "modality": "image",
+                "page_no": 26,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_27.jpg",
+                "caption": "the different functions of the software",
+                "modality": "image",
+                "page_no": 27,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_28.jpg",
+                "caption": "the different functions of the software",
+                "modality": "image",
+                "page_no": 28,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_29.jpg",
+                "caption": "the components of a software application",
+                "modality": "image",
+                "page_no": 29,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_30.jpg",
+                "caption": "the different types of the code",
+                "modality": "image",
+                "page_no": 30,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_31.jpg",
+                "caption": "the configuration of the system",
+                "modality": "image",
+                "page_no": 31,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_32.jpg",
+                "caption": "the components of a system",
+                "modality": "image",
+                "page_no": 32,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_33.jpg",
+                "caption": "the number of the components in the system",
+                "modality": "image",
+                "page_no": 33,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_34.jpg",
+                "caption": "the different functions of the system",
+                "modality": "image",
+                "page_no": 34,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_35.jpg",
+                "caption": "the number of patients in each of the patients",
+                "modality": "image",
+                "page_no": 35,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_36.jpg",
+                "caption": "the number of different types of the data",
+                "modality": "image",
+                "page_no": 36,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_37.jpg",
+                "caption": "the number of different types of the genomes",
+                "modality": "image",
+                "page_no": 37,
+                "section": "figures"
+            },
+            {
+                "path": "./output/images/recursive language model/c708de4d-7f2f-42b6-9164-5897105df988-page_38.jpg",
+                "caption": "the number of the different components",
+                "modality": "image",
+                "page_no": 38,
+                "section": "figures"
+            }
+        ]
+    }
+}

@@ -1,0 +1,9 @@
+llama-parse  
+python-dotenv
+nest_asyncio
+llama-index-core 
+llama-index-readers-file 
+google-genai
+pillow
+langchain
+pydantic

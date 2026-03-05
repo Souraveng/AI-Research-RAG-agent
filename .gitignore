@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+.env
+
+# Project Specific
+data/*.pdf
+output/*.md
+output/api_cache.json
+# If images are too many, you might ignore them, 
+# but for hosting we need them, so we leave them in.
+
+# System
+.DS_Store
+Thumbs.db
